@@ -7,6 +7,13 @@ body {
 
 }
 
+.testing__branch h5 {
+    font-family: "Sedgwick Ave Display";
+    color: #fff;
+    font-size: 30px;
+    margin-right: 30px;
+}
+
 .main {
     width: 380px;
     height: 255px;
